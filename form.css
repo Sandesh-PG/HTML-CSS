@@ -1,0 +1,60 @@
+body
+{
+    background-image:url(https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+*
+{
+    box-sizing: border-box;
+}
+
+
+.nav-links
+{
+    flex: 1;
+    text-align: right;
+    word-spacing: 10px;
+}
+
+
+.container
+{
+    margin: auto;
+    width: 50%;
+    padding: 25px;
+    border: 1px solid #BFBFBF;
+    background-color: transparent;
+    box-shadow: 20px 20px 22px 0 ;
+}
+
+
+
+input[type='text'],
+input[type='password']
+{
+    width: 100%;
+    padding: 20px;
+    margin: 5px o 22px 0;
+    display: inline-block;
+    border:none;
+    background-color: whitesmoke;
+}
+
+
+img
+{
+    border: 1px solid #DDD;
+    border-radius: 2px;
+    padding: 3px;
+    width: 100px;
+}
+
+p.a
+{
+    text-align: right;
+}
